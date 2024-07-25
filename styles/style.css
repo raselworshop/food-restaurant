@@ -156,3 +156,16 @@ body{
     text-align: center;
     opacity: 0.7;
 }
+/* providing good food section styles here */
+.good-food-container{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 30px;
+    margin: 0 auto;
+}
+
+/* footer section design/styles starts here */
+.image-container{
+    background-image: url('../assets/social-bg.png');
+}
