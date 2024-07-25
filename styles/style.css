@@ -9,6 +9,7 @@ body{
     margin: 0;
     padding: 0;
 }
+/* banner section style start here */
 #banner{
     height: 655px;
     background-image: linear-gradient(
@@ -25,7 +26,8 @@ body{
     align-items: center;
     gap: 20px;
 }
-#banner .btn{
+/* button styles */
+.btn{
     color: rgb(255, 255, 255);
     font-size: 20px;
     font-weight: 600;
@@ -70,4 +72,9 @@ body{
     text-align: center;
     opacity: 0.7;
     margin-bottom: 32px;
+}
+/* now styles for cards section */
+.box-container{
+    max-width: 1320px;
+    height: 746px;
 }
