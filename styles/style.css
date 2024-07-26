@@ -179,7 +179,7 @@ align-items: center;
 padding: 0px;
 }
 .good-food-details h1{
-    width: 850px;
+    max-width: 850px;
     color: rgb(16, 16, 16);
     font-size: 2.6rem;
     font-weight: 700;
